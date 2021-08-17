@@ -1,3 +1,7 @@
+<h1>Covid-19 Tracker with ReactJS</h1>
+
+![covidtracker](https://user-images.githubusercontent.com/41675517/129732537-b51592d4-45cb-4a52-885b-6f606e010020.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
